@@ -1,6 +1,6 @@
 {
 	"intro": {
-		"start": "const Andrew = ( name, passion ) =>",
+		"start": "const Kevin = ( name, passion ) =>",
 		"end": "Hello, my name is",
 		"speed": 60,
 		"deletionSpeed": 80,
@@ -11,7 +11,7 @@
 	},
 
 	"header": {
-		"name": "Andrew Nelson.",
+		"name": "Kevin Van Haesendonck.",
 		"usp": "I design and build meaningful experiences."
 	},
 
@@ -25,8 +25,8 @@
 		},
 		"secondary": {
 			"title": "LinkedIn",
-			"url": "",
-			"leaveSite": "true"
+			"url": "https://www.linkedin.com/in/kevin-van-haesendonck-82a6a7202/",
+			"leaveSite": "false"
 		}
 	}
 }
